@@ -20,4 +20,6 @@
 
 **Welcome to my GitHub Profile!** I'm a Software Developer from Germany, specialized in Software Development for User Interfaces and Apps. However, I have a lot of experience in writing Backend code, too!
 
-For Frontend or Desktop Applications, I'm mostly working with Angular and Electron. For Backend Apps or Microservices, which I am mostly focusing on right now, it's mostly about Express, NestJS, GraphQL and Apollo. I really love using the latest tech and experimenting with new things – I get bored really fast doing the same things every day. 🤷
+For Frontend or Desktop Applications, I'm mostly working with [Angular](https://angular.io/) and [Electron](https://www.electronjs.org/). For Backend Apps or Microservices, which I am mostly focusing on right now, it's mostly about [Express](https://expressjs.com/), [NestJS](https://nestjs.com/), [GraphQL](https://graphql.org/) and [Apollo](https://www.apollographql.com/). I really love using the latest tech and experimenting with new things – I get bored really fast doing the same things every day. 🤷
+
+**Want to know what I'm working on right now?** Check out [my latest project](https://adams.sh/projects/twitch)!
